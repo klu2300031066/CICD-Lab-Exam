@@ -6,7 +6,7 @@
     RUN apk add --no-cache git
     
     # Clone your frontend repo
-    RUN git clone https://github.com/suneethabulla/carrental-frontend.git .
+    RUN git clone https://github.com/klu2300031066/carrental-frontend.git .
     
     # Install deps and build
     RUN npm install
